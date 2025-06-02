@@ -23,12 +23,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an undergraduate student at McGill University in Montreal, Canada, where I study cognitive neuroscience, applied mathematics, and computer science. 
+I'm an undergraduate student at McGill University in Montreal, Canada, where I learn things about neuroscience, applied mathematics, and computer science. I've been working wih <a href='https://mila.quebec/en/directory/paul-masset'>Dr. Paul Masset</a> on compressed sensing models of olfactory sensation since Fall 2024.
 
-I'm interested in theoretical/computational neuroscience, and machine learning theory. 
-I find learning the abstraction of mathematics very engaging and enjoy applying framework from mathematics and physics, together with engineering tools, to study intelletual processes--from sensing and learning to decision making.
-
-Since Fall 2024, I've been working wih <a href='https://mila.quebec/en/directory/paul-masset'>Prof. Paul Masset</a> on computational modelling of early olfactory sensory processes.
+I'm interested in theoretical and computational neuroscience, machine learning theory, and applied mathematics—particularly in the computational principles and implementations that underlie intellectual processes, from sensing and learning to decision-making, in both artificial and biological systems.
 
 You can find some of my notes, a collection of resources I found useful,
 and some random stuffs on this website. 
