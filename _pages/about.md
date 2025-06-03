@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='#'>McGill University</a>.
+# subtitle: .
 
 profile:
   align: right
@@ -29,3 +29,17 @@ I'm interested in theoretical and computational neuroscience, machine learning t
 
 You can find some of my notes, a collection of resources I found useful,
 and some random stuffs on this website. 
+
+(You might also find me as Matthew Y. He in other places.)
+
+<!-- <details class="foldable-section">
+  <summary>Research Interests</summary>
+  <div class="foldable-content">
+    My current research focuses on olfactory sensation models using compressed sensing techniques. I'm exploring how biological systems efficiently encode and process sensory information with limited neural resources.
+    
+    Other research interests include:
+    - Computational models of neural circuits
+    - Information theory applications in neuroscience
+    - Machine learning for biological data analysis
+  </div>
+</details> -->
