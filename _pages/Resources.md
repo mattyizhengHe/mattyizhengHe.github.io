@@ -2,15 +2,25 @@
 layout: page
 permalink: /resources/
 title: Resources
-description: Resources I've used for learning, perhaps useful for you too.
+# description: Resources I've used for learning, perhaps they're also useful for you.
 nav: true
 nav_order: 6
 ---
+#### Some of my notes
+[MATH240 Discrete Structure](/assets/pdf/MATH240_Discrete_Structure.pdf)
+A complete note of material covered in the first course in discrete mathematics. \\
+<a href='https://github.com/mattyizhengHe/Math-Cs-Notes/blob/Master/MATH323_Probability(Extended)/MATH323_Probability(Extended).pdf'> MATH323 Probablity (Extended) </a> Probability notes, extended from material that usually covered in MATH323 to bridge the gap between between MATH323 and some advanced courses. (Not fully finished yet...) 
+
+#### Random stuffs
+
+<a href='https://github.com/mattyizhengHe/Customized-TufteHandout-Latex'> Customized Tufte Handout Latex</a> The Latex template I used.
+
+### Resources I found useful
 
 #### Mathematics
 
 **General purpose for McGill students**: \\
-<a href='https://sumsmcgill.ca/sums-notesbank/'>SUMS Notesbank</a> A collection of notes from McGill students.
+<a href='https://sumsmcgill.ca/sums-notesbank/'>SUMS Notesbank</a> A public repository of McGill Math lecture notes made by students.
 
 **Linear Algebra**: \\
 <a href='https://linear.axler.net'>Linear Algebra Done Right</a> by Sheldon Axler. \\
@@ -31,21 +41,17 @@ nav_order: 6
 
 
 
-
 #### Computer Science
 **Algorithms and Data Structures**: \\
-<a href='https://luc.devroye.org/252.html'>Algorithms and Data Structures (COMP252)</a> by Luc Devroye.
-Lecture notes can be found in the link. This proof-based CS course includes rigorous and intense introduction to algorithms analysis. The best CS course I've taken.
-
-**Programming/High Performance Computing/Computer Engineering**: \\
-<a href='https://prashp.gitlab.io/post/compute-canada-tut/'> Guide for Using the Compute Canada clusters </a> by Prashant Pandey.
+<a href='https://luc.devroye.org/252.html'>Algorithms and Data Structures (COMP252)</a> by Luc Devroye. This proof-based CS course teaches both CS and applied math. 
 
 **Machine Learning**: \\
 <a href='https://claireboyer.github.io/tutorial-piml/'>A statistical tour of physics-informed machine learning </a> by Claire Boyer and Nathan Doumèche.
 Includes general introductive lectures on physics-informed neural networks (PINNs), kernel methods in machine learning and RKHS.
 
-#### Some of my notes
-<a href='https://github.com/mattyizhengHe/Math-Cs-Notes/blob/Master/MATH240_Discrete_Structure/MATH240_Discrete_Structure.pdf
-'> MATH240 Discrete Structure </a> A complete note of material covered in the first course in discrete mathematics. \\
-<a href='https://github.com/mattyizhengHe/Math-Cs-Notes/blob/Master/MATH323_Probability(Extended)/MATH323_Probability(Extended).pdf'> MATH323 Probablity (Extended) </a> Probability notes, extended from material that usually covered in MATH323 to bridge the gap between between MATH323 and some advanced courses. (Not fully finished yet.)
+#### Miscellaneous/Engineering
+**Programming/High Performance Computing/Computer Engineering**: \\
+<a href='https://prashp.gitlab.io/post/compute-canada-tut/'> Guide for Using the Compute Canada clusters </a> by Prashant Pandey.
+
+
 
