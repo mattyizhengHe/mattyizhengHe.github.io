@@ -23,7 +23,7 @@
       "url": "https://massetlab.org",
       "startDate": "2024-09-01",
       "endDate": "present",
-      "summary": "Working on olfactory sensing in the Masset lab.",
+      // "summary": "Working on olfactory sensing in the Masset lab.",
       "highlights": ""
     }
   ],
@@ -32,7 +32,7 @@
       "institution": "McGill University",
       "location": "Montreal, Canada",
       "url": "https://www.mcgill.ca",
-      "area": "B.A. & Sc. Honours Cognitive Science",
+      "area": "B.A. & Sc. Honours Cognitive Science & Mathematics",
       "studyType": "Undergraduate",
       "startDate": "2023",
       "endDate": "2027",
@@ -40,16 +40,14 @@
       "Grad-level courses": ["Stochastic Processes", "Computational Neuroscience"]
     }
   ],
-  "conferencePosters": [
-    {
-      "title": "Olfactory Sensing in the Masset Lab",
-      "event": "COSYNE 2025",
-      "date": "2025-03-10",
-      "location": "Lisbon, Portugal",
-      "url": "",
-      "summary": "Presented research on computational models of olfactory processing."
-    }
-  ],
+  // "conferencePosters": [
+  //   {
+  //     "title": "Olfactory Sensing in the Masset Lab",
+  //     "event": "COSYNE 2025",
+  //     "date": "2025-03-10",
+  //     "summary": "Presented research on computational models of olfactory processing."
+  //   }
+  // ],
   "awards": [
     {
       "title": "SURA: Science Undergraduate Research Awards",
@@ -60,8 +58,7 @@
     },
     {
       "title": "Dean's Honour List (In-course)",
-      "startDate": "2023-08",
-      "endDate": "2025-04",
+      "date": "2023 – 2025",
       "awarder": "McGill University",
       "url": "https://www.mcgill.ca/studentaid/scholarships-aid/current-undergrads/merit",
       "summary": "Top 10% of the Faculty of Science."
@@ -81,14 +78,14 @@
       "summary": "300 CAD for being a mentor in an intro to molecular and cellular biology course."
     }
   ],
-  "certificates": [
-  ],
   "conference abstract": [
     {"Conference": "Computational and Systems Neuroscience (COSYNE 2025)",
     "date": "2025",
     "title": "Simultaneous detection and mapping in the olfactory bulb",
     "url": "https://www.cosyne.org/past-conferences"
   }
+  ],
+  "certificates": [
   ],
   "publications": [
   ],
