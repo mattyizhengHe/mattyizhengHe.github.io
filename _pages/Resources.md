@@ -9,7 +9,7 @@ nav_order: 6
 #### Some of my notes
 [MATH240 Discrete Structure](/assets/pdf/MATH240_Discrete_Structure.pdf)
 A complete note of material covered in the first course in discrete mathematics. \\
-<a href='https://github.com/mattyizhengHe/Math-Cs-Notes/blob/Master/MATH323_Probability(Extended)/MATH323_Probability(Extended).pdf'> MATH323 Probablity (Extended) </a> Probability notes, extended from material that usually covered in MATH323 to bridge the gap between between MATH323 and some advanced courses. (Not fully finished yet...) 
+[MATH323 Probability (Extended)](/assets/pdf/MATH323_Probability(Extended).pdf) Probability notes, extended from material that usually covered in intro Probability (MATH323) to bridge the gap between between MATH323 and some advanced probability courses. (Not fully finished yet...)
 
 #### Random stuffs
 

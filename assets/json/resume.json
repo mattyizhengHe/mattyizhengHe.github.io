@@ -20,7 +20,7 @@
     {
       "name": "McGill University",
       "position": "Research Intern",
-      "url": "",
+      "url": "https://massetlab.org",
       "startDate": "2024-09-01",
       "endDate": "present",
       "summary": "Working on olfactory sensing in the Masset lab.",
@@ -37,7 +37,7 @@
       "startDate": "2023",
       "endDate": "2027",
       "score": "",
-      "courses": ["Stochastic Processes", "Computational Neuroscience"]
+      "Grad-level courses": ["Stochastic Processes", "Computational Neuroscience"]
     }
   ],
   "conferencePosters": [
@@ -59,6 +59,14 @@
       "summary": "8950 CAD for 15 weeks of full-time research in the summer of 2025."
     },
     {
+      "title": "Dean's Honour List (In-course)",
+      "startDate": "2023-08",
+      "endDate": "2025-04",
+      "awarder": "McGill University",
+      "url": "https://www.mcgill.ca/studentaid/scholarships-aid/current-undergrads/merit",
+      "summary": "Top 10% of the Faculty of Science."
+    },
+    {
       "title": "SUS Ambassador Fund (SCAF)",
       "date": "2025",
       "awarder": "McGill University",
@@ -75,6 +83,13 @@
   ],
   "certificates": [
   ],
+  "conference abstract": [
+    {"Conference": "Computational and Systems Neuroscience (COSYNE 2025)",
+    "date": "2025",
+    "title": "Simultaneous detection and mapping in the olfactory bulb",
+    "url": "https://www.cosyne.org/past-conferences"
+  }
+  ],
   "publications": [
   ],
   "languages": [
@@ -83,6 +98,18 @@
   ],
   "references": [
   ],
-  "projects": [
+  "Workshop attendance": [
+    {
+      "title": "School: Mathematical foundations of data science (Centre de Recherches Mathématiques, CRM)",
+      "startDate": "2025-05-20",
+      "endDate": "2025-05-24",
+      "url": "https://www.crmath.ca/en/activities/#/type/activity/id/3993"
+    },
+    {
+      "title": "Workshop: Optimization and learning: theory and applicationse (Centre de Recherches Mathématiques, CRM)",
+      "startDate": "2025-05-27",
+      "endDate": "2025-05-30",
+      "url": "https://www.crmath.ca/en/activities/#/type/activity/id/3994"
+    }
   ]
 }

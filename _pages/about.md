@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an undergraduate student at McGill University in Montreal, Canada, where I learn about neuroscience, applied mathematics, and computer science. I've been working with <a href='https://sites.google.com/view/chenjiang01'>Chen Jiang</a>, <a href='https://jzv.io'>Jacob Zavatone-Veth</a> and <a href='https://mila.quebec/en/directory/paul-masset'>Paul Masset</a> on compressed sensing models of olfactory sensation since Fall 2024.
+I'm an undergraduate student at McGill University in Montreal, Canada, where I learn about neuroscience, applied mathematics, and computer science. I've been working with <a href='https://sites.google.com/view/chenjiang01'>Chen Jiang</a>, <a href='https://jzv.io'>Jacob Zavatone-Veth</a> and <a href='https://mila.quebec/en/directory/paul-masset'>Paul Masset</a> in <a href='https://massetlab.org'> Masset lab</a> on compressed sensing models of olfactory sensing since Fall 2024.
 
 I'm interested in theoretical and computational neuroscience, machine learning theory, and applied mathematics—particularly in the computational principles and implementations that underlie intellectual processes, in both artificial and biological systems.
 
