@@ -18,7 +18,7 @@
   },
   "work": [
     {
-      "name": "McGill University",
+      "name": "McGill University, Mila - Quebec AI Institute",
       "position": "Research Intern",
       "url": "https://massetlab.org",
       "startDate": "2024-09-01",
@@ -40,14 +40,6 @@
       "Grad-level courses": ["Stochastic Processes", "Computational Neuroscience"]
     }
   ],
-  // "conferencePosters": [
-  //   {
-  //     "title": "Olfactory Sensing in the Masset Lab",
-  //     "event": "COSYNE 2025",
-  //     "date": "2025-03-10",
-  //     "summary": "Presented research on computational models of olfactory processing."
-  //   }
-  // ],
   "awards": [
     {
       "title": "SURA: Science Undergraduate Research Awards",
