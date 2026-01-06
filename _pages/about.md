@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an undergraduate student at McGill University in Montreal, Canada, studying Cognitive Science and Applied Mathematics. I've been working with <a href='https://jzv.io'>Jacob Zavatone-Veth</a> and <a href='https://mila.quebec/en/directory/paul-masset'>Paul Masset</a> in <a href='https://massetlab.org'> Masset lab</a> on theoretical neuroscience.
+I'm an undergraduate student at McGill University in Montreal, Canada, studying <a href='https://www.mcgill.ca/cogsci/futurestudents'>Cognitive Science</a> and Applied Mathematics. I've been working with <a href='https://jzv.io'>Jacob Zavatone-Veth</a> and <a href='https://mila.quebec/en/directory/paul-masset'>Paul Masset</a> in <a href='https://massetlab.org'> Masset lab</a> on theoretical neuroscience.
 
 I'm interested in computational neuroscience and machine learning theory—particularly in the computational principles and implementations that underlie intellectual processes, in both artificial and biological systems. My training in applied mathematics and computer science includes stochastic processes, numerical analysis, optimization, and machine learning.
 
