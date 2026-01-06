@@ -253,13 +253,14 @@ let transTheme = () => {
 
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
 // "system". Default is "system".
-themeSetting = "dark";
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
   if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
-    themeSetting = "system";
+    themeSetting = "dark";
   }
-  return themeSetting;
+  if (themeSetting == "system") {
+    themeSetting = "dark";
+  }  return themeSetting;
 };
 
 // Determine the computed theme, which can be "dark" or "light". If the theme setting is
