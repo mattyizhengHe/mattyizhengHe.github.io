@@ -32,7 +32,7 @@
       "institution": "McGill University",
       "location": "Montreal, Canada",
       "url": "https://www.mcgill.ca",
-      "area": "B.A. & Sc. Honours Cognitive Science & Mathematics",
+      "area": "B.A. & Sc. Honours Cognitive Science & Major Mathematics",
       "studyType": "Undergraduate",
       "startDate": "2023",
       "endDate": "2027",
@@ -41,6 +41,13 @@
     }
   ],
   "awards": [
+    {
+      "title": "Faculty of Science Scholarship",
+      "date": "2025 – 2026",
+      "awarder": "McGill University",
+      "url": "https://www.mcgill.ca/science/research/undergraduate-research/sura",
+      "summary": "Established in 1992 by the University to provide awards based on academic achievement to students in the top 5% of the Faculty of Science."
+    },
     {
       "title": "SURA: Science Undergraduate Research Awards",
       "date": "2025",
