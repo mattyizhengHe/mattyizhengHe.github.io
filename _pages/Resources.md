@@ -6,10 +6,15 @@ title: Resources
 nav: true
 nav_order: 6
 ---
+
 #### Some of my notes
+
+[MATH563 Honours Convex Optimization](/assets/pdf/MATH563_Convex_Optimization.pdf)
+
+[MATH323 Probability (Extended)](/assets/pdf/MATH323_Probability(Extended).pdf) Probability notes, extended from material that usually covered in intro Probability (MATH323) to bridge the gap between between MATH323 and some advanced probability courses.
+
 [MATH240 Discrete Structure](/assets/pdf/MATH240_Discrete_Structure.pdf)
 A complete note of material covered in the first course in discrete mathematics. \\
-[MATH323 Probability (Extended)](/assets/pdf/MATH323_Probability(Extended).pdf) Probability notes, extended from material that usually covered in intro Probability (MATH323) to bridge the gap between between MATH323 and some advanced probability courses. (Not fully finished yet...)
 
 #### Random stuffs
 
