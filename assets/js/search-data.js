@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects-amp-publications",
-          title: "Projects &amp; Publications",
+  },{id: "nav-publications",
+          title: "Publications",
           description: "Preprints and conference abstracts.",
           section: "Navigation",
           handler: () => {
@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resources/";
           },
-        },{
+        },{id: "post-a-post-with-math",
+        
+          title: "a post with math",
+        
+        description: "an example of a blog post with some math",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/math/";
+          
+        },
+      },{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
