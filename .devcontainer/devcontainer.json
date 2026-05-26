@@ -12,7 +12,7 @@
     "ghcr.io/devcontainers-contrib/features/prettier:1": {}
   },
 
-  // Optionally: run jekyll serve automatically on container entering using the Docker entrypoint
+  // Otionally: run jekyll serve automatically on container entering using the Docker entrypoint
   "postAttachCommand": "./bin/entry_point.sh",
 
   "customizations": {

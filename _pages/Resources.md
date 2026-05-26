@@ -4,7 +4,7 @@ permalink: /resources/
 title: Resources
 # description: Resources I've used for learning, perhaps they're also useful for you.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 #### Some of my notes

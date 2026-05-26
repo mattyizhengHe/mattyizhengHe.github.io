@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Projects & Publications
+title: Publications
 description: Preprints and conference abstracts.
 nav: true
 nav_order: 2
