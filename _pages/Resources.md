@@ -14,7 +14,7 @@ nav_order: 4
 [MATH323 Probability (Extended)](/assets/pdf/MATH323_Probability(Extended).pdf) Probability notes, extended from material that usually covered in intro Probability (MATH323) to bridge the gap between between MATH323 and some advanced probability courses.
 
 [MATH240 Discrete Structure](/assets/pdf/MATH240_Discrete_Structure.pdf)
-A complete note of material covered in the first course in discrete mathematics. \\
+A complete note of material covered in the first course in discrete mathematics.
 
 #### Random stuffs
 
