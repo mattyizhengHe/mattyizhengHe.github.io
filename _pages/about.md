@@ -25,11 +25,15 @@ latest_posts:
 
 I'm an undergraduate student at McGill University in Montreal, Canada. I'm currently in <a href='https://www.mcgill.ca/cogsci/futurestudents'>Honours Cognitive Science</a> and doing a double major in Mathematics. I've been working  on theoretical neuroscience in <a href='https://massetlab.org'> Masset lab</a> with <a href='https://mila.quebec/en/directory/paul-masset'>Paul Masset</a> and <a href='https://jzv.io'>Jacob Zavatone-Veth</a>.
 
-I'm most interested in theoretical neuroscience and machine learning theory—particularly in the theory of information processing in both artificial and biological systems.
-That said, I'm loosely drawn to
-systems neuroscience and empirical machine learning research, beyond pure theory.
+I'm most interested in theoretical neuroscience and machine learning theory (high dimensional learning dynamics), while loosely drawn to
+systems neuroscience and empirical machine learning research.
 
-My core academic training includes but is not limited to optimization, stochastic processes, machine learning theory, and deep learning.
+I really enjoy working at the intersection of neuroscience, applied math, machine learning, and physics.
+
+
+<!-- —particularly in the theory of information processing in both artificial and biological systems -->
+
+<!-- My core academic training includes but is not limited to optimization, stochastic processes, machine learning theory, and deep learning. -->
 
 You can find my CV, some of my notes, and a collection of resources I found useful on this website.
 
